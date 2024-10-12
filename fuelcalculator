@@ -1,0 +1,9 @@
+fun main() {
+val litro:Float = 22.0f
+val distancia:Float = 30.0f
+    
+    val gastoporkm = litro / distancia
+    
+    println("O gasto por km é: $gastoporkm$ ")
+     
+}
